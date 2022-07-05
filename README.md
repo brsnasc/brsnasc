@@ -1,4 +1,4 @@
-## Hello there! 👋🏼 
+## Hey! 👋🏼 Nice to meet ya!
 
 - 🥶 As you can see, I'm in another acc. If you want, you can check it out later! 🤭
 - 👩🏻‍🦱 Pronouns: She / Her
@@ -6,7 +6,7 @@
 
 <div align="center">
 
-  <a href="https://github.com/brunasdev">
+  <a href="https://github.com/brsnasc">
   
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=brsnasc&show_icons=true&theme=vue&include_all_commits=true&count_private=true"/>
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brsnasc&layout=compact&langs_count=7&theme=vue"/>
