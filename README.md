@@ -6,7 +6,7 @@
 
 <div align="center">
 
-  <a href="https://github.com/brunasdev">
+  <a href="https://github.com/brsnasc">
   
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=brsnasc&show_icons=true&theme=vue&include_all_commits=true&count_private=true"/>
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brsnasc&layout=compact&langs_count=7&theme=vue"/>
@@ -20,15 +20,15 @@
   <img align="center" alt="Bruna-Android Studio" height="40" width="50" src="https://raw.githubusercontent.com/brunasdev/brunasdev/1c8a8f78feb2f1db83952b70369d3d1c444aa7fa/Archives/Dev%20Icons/4-%20Android%20Studio%20-%20Logo.svg" />
   <img align="center" alt="Bruna-IntelliJ" height="40" width="50" src="https://raw.githubusercontent.com/brunasdev/brunasdev/1c8a8f78feb2f1db83952b70369d3d1c444aa7fa/Archives/Dev%20Icons/5-%20IntelliJ%20IDEA%20-%20Icon.svg" />
   
-  </div>
-  
-  
+</div>
+  ## My main account:
+  <a href="https://github.com/brunasdev" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+</div>
   ## And for contact, u can find me here:
- 
-  
 <div> 
   <a href="https://www.linkedin.com/in/brsnasilvac" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://instagram.com/brsnasc" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
-</div>
   
-  ![Snake animation](https://github.com/brsnasc/brsnasc/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/brunasdev/brunasdev/blob/output/github-contribution-grid-snake.svg)
+  
+</div>
